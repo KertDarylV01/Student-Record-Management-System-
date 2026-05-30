@@ -1,0 +1,3 @@
+**Student Record Management System (JavaFX, SceneBuilder, and PostgreSQL)**
+
+This activity involves creating a simple Student Record Management System using JavaFX, SceneBuilder, JDBC, and PostgreSQL. The application allows users to perform basic CRUD (Create, Read, Update, Delete) operations on student records through a graphical user interface. By completing this task, you will learn how to connect a Java application to a database, process user inputs, and manage data efficiently. The activity also provides practical experience in database integration, debugging, and testing, resulting in a functional JavaFX application connected to PostgreSQL.
